@@ -7,7 +7,7 @@ div h1
   
 }
 *{
-    scroll-behavior: smooth;
+    scroll-behavior: smooth;/*Permite que el desplazamiento sea suave*/
     background-color: #F5F5F5;
    color: rgb(64, 64, 164);
 }
@@ -108,7 +108,7 @@ header
 
  }
 nav{
-    position: fixed;
+    position: fixed;/* Fija mi barra de navegacion en su lugar */
    
     
    
